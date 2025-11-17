@@ -70,7 +70,6 @@ I follow a clean and elegant approach in both design and code. Inspired by Apple
 
 I love making cinematic travel films and plan to launch a moto-vlogging journey soon!
 
-Thanks for stopping by! 😊
 
 <p align="center">
 	Thanks for stopping by! 😊
