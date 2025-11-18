@@ -25,7 +25,7 @@ I'm a passionate software developer focused on crafting clean, modern, and effic
 
 ## 🌐 Connect With Me
 
-[Resume](https://github.com/lanzkrish/lanzkrish/files/15048232/Dhananjay.Sahoo.Resume.2.pdf) •
+<!-- [Resume](https://github.com/lanzkrish/lanzkrish/files/15048232/Dhananjay.Sahoo.Resume.2.pdf) • -->
 [Resume](https://github.com/user-attachments/files/23598531/Resume.Dhananjay.Sahoo.pdf) •
 [Website](https://lanzkrish.github.io/) •
 [Twitter](https://twitter.com/lanzkrish) •
